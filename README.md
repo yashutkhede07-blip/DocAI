@@ -346,12 +346,11 @@ Being honest about this:
 
 | Name | Role |
 |---|---|
-| **Yash P. Utkhede** | Team Member |
+| **Yash P. Utkhede** | Team Leader |
 | **Arya N. Mune** | Team Member |
 | **Shantanu P. Borkar** | Team Member |
 | **Sai V. Shaniware** | Team Member |
 
-**Under the guidance of:** Prof. Ashwini Mahajan
 
 </div>
 
