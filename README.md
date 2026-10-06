@@ -168,7 +168,7 @@ DocAi-main/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/DocAi.git
+git clone https://github.com/yashutkhede07-blip/DocAI>/DocAi.git
 cd DocAi/DocAi
 ```
 
