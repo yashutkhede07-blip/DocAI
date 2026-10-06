@@ -58,54 +58,6 @@ Banks, universities, employers and government portals all receive documents as s
 
 ---
 
-## 📸 Screenshots
-
-<div align="center">
-
-### 🏠 Landing Page
-<img src="docs/screenshots/01-landing.png" alt="DocAI landing page" width="900"/>
-
-</div>
-
-<table>
-  <tr>
-    <td align="center"><b>🔐 Login</b><br/><img src="docs/screenshots/02-login.png" alt="Login" width="440"/></td>
-    <td align="center"><b>📝 Register</b><br/><img src="docs/screenshots/03-register.png" alt="Register" width="440"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>📤 Upload Document</b><br/><img src="docs/screenshots/04-upload.png" alt="Upload" width="440"/></td>
-    <td align="center"><b>🗂️ Analysis History</b><br/><img src="docs/screenshots/10-history.png" alt="History" width="440"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>📷 Live Camera Scan</b><br/><img src="docs/screenshots/05-camera-scan.png" alt="Camera scan" width="440"/></td>
-    <td align="center"><b>🔁 Retake / Use Photo</b><br/><img src="docs/screenshots/06-camera-review.png" alt="Camera review" width="440"/></td>
-  </tr>
-</table>
-
-<div align="center">
-
-### ✅ Verification Result
-<img src="docs/screenshots/07-result.png" alt="Verification result" width="800"/>
-
-### 🌡️ Heatmap and Class Probabilities
-<img src="docs/screenshots/08-analysis-heatmap.png" alt="Heatmap and probabilities" width="800"/>
-
-### 📄 Generated PDF Report
-<img src="docs/screenshots/09-pdf-report.png" alt="PDF report" width="420"/>
-
-</div>
-
-<details>
-<summary><b>🌗 More screens (Features page, Dark-theme profile)</b></summary>
-<br/>
-<p align="center">
-  <img src="docs/screenshots/11-features.png" alt="Features page" width="800"/><br/><br/>
-  <img src="docs/screenshots/12-profile-dark.png" alt="Profile page in dark theme" width="800"/>
-</p>
-</details>
-
----
-
 ## 🧩 How It Works
 
 ```mermaid
