@@ -368,7 +368,6 @@ Being honest about this:
 1. K. He et al., *Deep Residual Learning for Image Recognition* (ResNet).
 2. R. Smith, *An Overview of the Tesseract OCR Engine*.
 3. G. Koch et al., *Siamese Neural Networks for One-shot Image Recognition*.
-4. B. Bayar and M. Stamm, *A Deep Learning Approach to Universal Image Manipulation Detection*.
 
 Full list of references is in the project thesis.
 
